@@ -20,6 +20,10 @@ public class Calculator {
 
         }else if (your_choice==3){
             System.out.println(a*b);
+        }else if (your_choice==4&& b!=0) {
+            System.out.println(a/b);
+        }else {
+            System.out.println("Enter your valid opration");
         }
      
 

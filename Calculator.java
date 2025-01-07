@@ -15,7 +15,10 @@ public class Calculator {
         int b =sc.nextInt();
         if(your_choice==1){
             System.out.println(a+b);
-        } 
+        }else if (your_choice==2) {
+            System.out.println(a - b);
+
+        }
      
 
     }

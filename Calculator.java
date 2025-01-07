@@ -13,14 +13,13 @@ public class Calculator {
         int a =sc.nextInt();
         System.out.println("Enter your secound number ");
         int b =sc.nextInt();
-<<<<<<< HEAD
-=======
+
         if(your_choice==1){
             System.out.println(a+b);
-<<<<<<< HEAD
+
         }
 
-=======
+
         }else if (your_choice==2) {
             System.out.println(a - b);
 
@@ -31,7 +30,7 @@ public class Calculator {
         }else {
             System.out.println("Enter your valid opration");
         }
->>>>>>> substract
+
      
 
 >>>>>>> add

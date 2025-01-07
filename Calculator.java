@@ -18,6 +18,8 @@ public class Calculator {
         }else if (your_choice==2) {
             System.out.println(a - b);
 
+        }else if (your_choice==3){
+            System.out.println(a*b);
         }
      
 

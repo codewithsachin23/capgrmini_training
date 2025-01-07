@@ -13,18 +13,7 @@ public class Calculator {
         int a =sc.nextInt();
         System.out.println("Enter your secound number ");
         int b =sc.nextInt();
-        if(your_choice==1){
-            System.out.println(a+b);
-        } else if (your_choice==2) {
-            System.out.println(a - b);
-
-        }else if (your_choice==3){
-            System.out.println(a*b);
-        } else if (your_choice==4&& b!=0) {
-            System.out.println(a/b);
-        }else {
-            System.out.println("Enter your valid opration");
-        }
+     
 
     }
 }

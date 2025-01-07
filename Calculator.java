@@ -17,8 +17,15 @@ public class Calculator {
 =======
         if(your_choice==1){
             System.out.println(a+b);
+<<<<<<< HEAD
         }
 
+=======
+        }else if (your_choice==2) {
+            System.out.println(a - b);
+
+        }
+>>>>>>> substract
      
 
 >>>>>>> add

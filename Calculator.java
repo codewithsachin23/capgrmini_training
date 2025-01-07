@@ -13,6 +13,10 @@ public class Calculator {
         int a =sc.nextInt();
         System.out.println("Enter your secound number ");
         int b =sc.nextInt();
+        if(your_choice==1){
+            System.out.println(a+b);
+        }
+
      
 
     }
